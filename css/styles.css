@@ -1,0 +1,42 @@
+body {
+    background: #141e30;
+    background: -webkit-linear-gradient(to right, #141e30, #243b55);
+    background: linear-gradient(to right, #141e30, #243b55);
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.form-container {
+    margin-top: 100px;
+}
+
+footer {
+    margin-top: 90px;
+}
+
+.socials-links {
+    text-decoration: none;
+    display: inline-block !important;
+}
+
+.socials-links:hover {
+    color: pink !important;
+}
+
+.footer-link {
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: pink !important;
+}
+
+.navbar-brand:hover {
+    color: pink !important;
+}
+
+.nav-link:hover {
+    color: pink !important;
+}
